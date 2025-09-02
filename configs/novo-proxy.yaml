@@ -1,0 +1,8 @@
+# Main configuration for novo-proxy
+backend_url: "http://backend-service-url"
+timeout_seconds: 120
+log_level: "INFO"
+log_file: "../logs/novo-proxy.log"
+llm_url: "http://llm-service-url"
+llm_model: "gpt-4"
+llm_prompt_file: "configs/prompt.txt"

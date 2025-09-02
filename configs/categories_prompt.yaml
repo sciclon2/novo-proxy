@@ -1,0 +1,5 @@
+# Allowed categories for message analysis
+categories:
+  - name: general
+    description: General questions or statements that do not fit other categories.
+  # Add more categories as needed, each with a name and description

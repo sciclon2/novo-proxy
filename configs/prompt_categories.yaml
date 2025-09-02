@@ -1,0 +1,4 @@
+# Allowed categories for message analysis
+categories:
+  - general
+  # Add more categories as needed
